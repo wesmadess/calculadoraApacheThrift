@@ -1,4 +1,4 @@
-- Proyecto de calculadora básica que permite demostrar la utilización de Apache Thrift.
+- Proyecto de calculadora básica que ejemplifica la utilización de Apache Thrift.
 
 - Documentación para crear un nuevo proyecto: https://thrift.apache.org/tutorial/
   Información adicional en carpeta docs.
